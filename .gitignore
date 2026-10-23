@@ -1,6 +1,7 @@
 .venv
 __pycache__
-reports/
+reports/*
+!reports/.gitkeep
 .coverage
 .pytest_cache
 *.pyc
