@@ -1,0 +1,7 @@
+lower,upper,other lower,other upper,expected intersection
+1,5,3,7,"[3,5]"
+1,3,5,8,"()"
+1,4,4,8,"[4]"
+1,10,3,6,"[3,6]"
+-5,2,-1,4,"[-1,2]"
+0,inf,2,5,"[2,5]"
